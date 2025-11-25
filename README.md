@@ -15,8 +15,6 @@ Demo pour tester Adyen Drop-in (v6.25.1) avec React 19  **et** un  backend Node/
 ## 2. Installation
 
 ```bash
-cd adyen-react19-demo
-# éditer .env et renseigner ADYEN_API_KEY + ADYEN_MERCHANT_ACCOUNT + VITE_CLIENT_KEY
 npm install
 ```
 
